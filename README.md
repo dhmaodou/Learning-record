@@ -11,8 +11,8 @@
 ### 学习记录：
 ##### 第一节：熟悉GitHub
 - 1、熟悉GitHub repository的建立
-- 2、bash命令
-- 3、git命令
+- 2、[bash命令](https://github.com/dhmaodou/Learning-record/blob/master/doc/Bash_Cmd.md)
+- 3、[git命令](https://github.com/dhmaodou/Learning-record/blob/master/doc/Git_Cmd.md)
 
 
 ##### 第二节：MarkDown
