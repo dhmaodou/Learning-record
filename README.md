@@ -17,10 +17,12 @@
 
 ##### 第二节：MarkDown
 ``` c++
+#include <iostream>
+ using namespace std;
 int main()
 {
-	cout << "hello GitHub."<< endl;
-	cout << "hello markdown." << endl;
+	std::cout << "hello GitHub."<< endl;
+	std::cout << "hello markdown." << endl;
 	
 	return 0;
 	
